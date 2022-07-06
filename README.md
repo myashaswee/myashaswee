@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm yashaswee</h1>
 <h3 align="center">I'm a passionate  about Full Stack Developer .</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=myashaswee&label=Profile%20views&color=0e75b6&style=flat" alt="myashaswee" /> </p>
+ <p> align="left"> <img src="https://komarev.com/ghpvc/?username=myashaswee&label=Profile%20views&color=0e75b6&style=flat" alt="myashaswee" /> </p>
 
 ## 🙋‍♂️ About Me
 
