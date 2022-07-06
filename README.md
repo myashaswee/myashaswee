@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm yashaswee</h1>
 <h3 align="center">I'm a passionate  about Full Stack Developer .</h3>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=myashaswee&label=Profile%20views&color=0e75b6&style=flat" alt="myashaswee" /> </p>
 
 ## 🙋‍♂️ About Me
 
@@ -16,6 +17,7 @@
 - 📫 How to reach me **yashaswee3585@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+- 
 
 ## 🚀 Languages and Tools:
 
