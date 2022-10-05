@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm yashaswee</h1>
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=600&height=50&lines=I'm  passionated  about Full Stack Developer .&center=true"></a>
+I'm  passionated  about Full Stack Developer .
 
 </p>
 
